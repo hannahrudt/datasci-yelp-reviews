@@ -15,5 +15,7 @@ Project using NLP to explore Yelp reviews and star ratings
 
 
 ## Repository organization:
-- [HTML final version] is uploaded here; all original files (dataset, cleaning, outside dictionaries, etc.) can be zipped and sent by email.
+- [PDF final version](\datasci-yelp-reviews.pdf) is all final output and codeblocks in a nice, readable, clean format.
+
+- If you want the messy, large original files, please email me at (hannahrudt@gmail.com)[hannahrudt@gmail.com] and I can zip them for you.
 
